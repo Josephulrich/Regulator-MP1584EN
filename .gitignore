@@ -1,0 +1,18 @@
+# Fichiers temporaires Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Fichiers de compilation / IDE
+*.log
+*.tmp
+*.bak
+Build/
+Output/
+Debug/
+Release/
+
+# Fichiers systeme
+Thumbs.db
+desktop.ini
+.DS_Store
