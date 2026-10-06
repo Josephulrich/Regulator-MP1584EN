@@ -181,7 +181,7 @@ The schematic follows the MP1584EN reference design while adapting the power sta
 
 ### Top view
 
-<img src="asset/images/pcb_3d_top_view.png" alt="PCB 3D top view" width="650">
+<img src="asset/images/pcb_3d_bottom_view.png" alt="PCB 3D top view" width="650">
 
 ### Black soldermask variant
 
